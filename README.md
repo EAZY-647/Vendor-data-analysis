@@ -24,6 +24,8 @@ Data layout:
 - Raw CSV files are stored in the data/ folder.  
 - vendor_sales_summary.csv contains the cleaned and aggregated summary used for reporting and dashboards.
 
+Data set download link : https://drive.google.com/file/d/1TkfUurN44psaymzkuqWGpYiongHx63C-/view?usp=sharing
+
 ## Exploratory Data Analysis
 Key EDA steps and findings:
 - Computed summary statistics (count, mean, std, min, quartiles, max) for all numeric fields.  
